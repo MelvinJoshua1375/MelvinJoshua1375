@@ -96,6 +96,78 @@ Industry-grade rewrite of a PySpark clustering pipeline on 1.2M rows of mobile s
 
 ---
 
+### Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0a0e14?style=flat-square&logo=python&logoColor=a9fef7)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0e14?style=flat-square&logo=typescript&logoColor=7ec8e3)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0e14?style=flat-square&logo=javascript&logoColor=f7e98e)
+![Dart](https://img.shields.io/badge/Dart-0a0e14?style=flat-square&logo=dart&logoColor=54c5f8)
+![SQL](https://img.shields.io/badge/SQL-0a0e14?style=flat-square&logo=postgresql&logoColor=a9fef7)
+
+**Frameworks**
+
+![Next.js](https://img.shields.io/badge/Next.js-0a0e14?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/Flutter-0a0e14?style=flat-square&logo=flutter&logoColor=54c5f8)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0e14?style=flat-square&logo=fastapi&logoColor=00d084)
+![React](https://img.shields.io/badge/React-0a0e14?style=flat-square&logo=react&logoColor=61dafb)
+![Streamlit](https://img.shields.io/badge/Streamlit-0a0e14?style=flat-square&logo=streamlit&logoColor=ff4b4b)
+![Flask](https://img.shields.io/badge/Flask-0a0e14?style=flat-square&logo=flask&logoColor=ffffff)
+![Gradio](https://img.shields.io/badge/Gradio-0a0e14?style=flat-square&logo=gradio&logoColor=ff7c00)
+
+**Data & ML**
+
+![PySpark](https://img.shields.io/badge/PySpark-0a0e14?style=flat-square&logo=apachespark&logoColor=e25a1c)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0e14?style=flat-square&logo=scikitlearn&logoColor=f89939)
+![NumPy](https://img.shields.io/badge/NumPy-0a0e14?style=flat-square&logo=numpy&logoColor=4dabcf)
+![Pandas](https://img.shields.io/badge/Pandas-0a0e14?style=flat-square&logo=pandas&logoColor=a9fef7)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0e14?style=flat-square&logo=python&logoColor=a9fef7)
+![Seaborn](https://img.shields.io/badge/Seaborn-0a0e14?style=flat-square&logo=python&logoColor=7ec8e3)
+![Plotly](https://img.shields.io/badge/Plotly-0a0e14?style=flat-square&logo=plotly&logoColor=3f4f75)
+![SciPy](https://img.shields.io/badge/SciPy-0a0e14?style=flat-square&logo=scipy&logoColor=8caae6)
+![SHAP](https://img.shields.io/badge/SHAP-0a0e14?style=flat-square&logo=python&logoColor=a9fef7)
+![Optuna](https://img.shields.io/badge/Optuna-0a0e14?style=flat-square&logo=python&logoColor=7ec8e3)
+![MLflow](https://img.shields.io/badge/MLflow-0a0e14?style=flat-square&logo=mlflow&logoColor=0194e2)
+
+**LLM & AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-0a0e14?style=flat-square&logo=chainlink&logoColor=a9fef7)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0a0e14?style=flat-square&logo=python&logoColor=7ec8e3)
+![OpenAI](https://img.shields.io/badge/OpenAI-0a0e14?style=flat-square&logo=openai&logoColor=74aa9c)
+![Gemini](https://img.shields.io/badge/Gemini-0a0e14?style=flat-square&logo=google&logoColor=4285f4)
+![Groq](https://img.shields.io/badge/Groq-0a0e14?style=flat-square&logo=groq&logoColor=f55036)
+![Tavily](https://img.shields.io/badge/Tavily-0a0e14?style=flat-square&logo=python&logoColor=a9fef7)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0a0e14?style=flat-square&logo=huggingface&logoColor=ffd21e)
+![TRL](https://img.shields.io/badge/TRL-0a0e14?style=flat-square&logo=python&logoColor=7ec8e3)
+![vLLM](https://img.shields.io/badge/vLLM-0a0e14?style=flat-square&logo=python&logoColor=a9fef7)
+![PEFT](https://img.shields.io/badge/PEFT-0a0e14?style=flat-square&logo=python&logoColor=7ec8e3)
+![Unsloth](https://img.shields.io/badge/Unsloth-0a0e14?style=flat-square&logo=python&logoColor=ff7c00)
+![smolagents](https://img.shields.io/badge/smolagents-0a0e14?style=flat-square&logo=python&logoColor=a9fef7)
+![RAGAS](https://img.shields.io/badge/RAGAS-0a0e14?style=flat-square&logo=python&logoColor=7ec8e3)
+![n8n](https://img.shields.io/badge/n8n-0a0e14?style=flat-square&logo=n8n&logoColor=e94d4d)
+
+**Infra & Cloud**
+
+![Firebase](https://img.shields.io/badge/Firebase-0a0e14?style=flat-square&logo=firebase&logoColor=ffca28)
+![Databricks](https://img.shields.io/badge/Databricks-0a0e14?style=flat-square&logo=databricks&logoColor=e25a1c)
+![Vercel](https://img.shields.io/badge/Vercel-0a0e14?style=flat-square&logo=vercel&logoColor=ffffff)
+![Render](https://img.shields.io/badge/Render-0a0e14?style=flat-square&logo=render&logoColor=46e3b7)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0a0e14?style=flat-square&logo=githubactions&logoColor=2088ff)
+![Jenkins](https://img.shields.io/badge/Jenkins-0a0e14?style=flat-square&logo=jenkins&logoColor=d33833)
+![Docker](https://img.shields.io/badge/Docker-0a0e14?style=flat-square&logo=docker&logoColor=2496ed)
+![Upstash](https://img.shields.io/badge/Upstash-0a0e14?style=flat-square&logo=upstash&logoColor=00e9a3)
+
+**Dev**
+
+![pytest](https://img.shields.io/badge/pytest-0a0e14?style=flat-square&logo=pytest&logoColor=0a9edc)
+![Pydantic](https://img.shields.io/badge/Pydantic-0a0e14?style=flat-square&logo=pydantic&logoColor=e92063)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0a0e14?style=flat-square&logo=python&logoColor=a9fef7)
+
+<br/>
+
+---
+
 ### Signal Strength
 
 <div align="center">
