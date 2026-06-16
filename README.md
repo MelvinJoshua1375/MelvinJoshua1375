@@ -5,22 +5,18 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=620&lines=M.Sc.+Data+Science+%F0%9F%8C%8C;Stats+undergrad+turned+AI+builder;Always+learning%2C+always+evolving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=720&lines=M.Sc.+Data+Science+%7C+Statistics+Undergrad;Data+Science+grad+who+ships+real+things;An+enthusiastic+explorer+who+keeps+evolving" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
 
-```
-[BOOT]  Initializing Melvin Joshua...
-[OK]    M.Sc. Data Science loaded
-[OK]    Stats undergrad core detected
-[OK]    AI builder mode active
-[WARN]  Sleep schedule not found
-[OK]    Always learning: true
-[READY] System online.
-```
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1b2a&text=Data%20over%20dogma.%20Logic%20over%20hype.%20Intuition%20when%20it%20counts.&fontColor=a9fef7&fontSize=15&height=60" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0a0e14&text=Metacognitive.%20Data-driven.%20Tool-agnostic.&fontColor=7ec8e3&fontSize=15&height=50" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e14?style=for-the-badge&logo=linkedin&logoColor=a9fef7)](https://linkedin.com/in/melvin-joshua)
 
