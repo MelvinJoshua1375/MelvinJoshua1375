@@ -5,16 +5,16 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=720&lines=M.Sc.+Data+Science+%7C+Statistics+Undergrad;Data+Science+grad+who+ships+real+things;An+enthusiastic+explorer+who+keeps+evolving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=720&lines=M.Sc.+Data+Science+%7C+Statistics+Undergrad;Data+Science+grad+who+ships+real+things;" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1b2a&text=Data%20over%20dogma.%20Logic%20over%20hype.%20Intuition%20when%20it%20counts.&fontColor=a9fef7&fontSize=15&height=60" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=55&text=Data%20over%20dogma.%20Logic%20over%20hype.%20Intuition%20when%20it%20counts.&fontColor=a9fef7&fontSize=16&animation=fadeIn" />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0a0e14&text=Metacognitive.%20Data-driven.%20Tool-agnostic.&fontColor=7ec8e3&fontSize=15&height=50" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&text=Metacognitive.%20%C2%B7%20Data-driven.%20%C2%B7%20Tool-agnostic.&fontColor=7ec8e3&fontSize=14&animation=fadeIn" />
 
 <br/>
 
@@ -40,7 +40,7 @@ Production RAG chatbot for Loyola College Chennai. Answers admissions queries ac
 </td>
 <td valign="top" width="50%">
 
-**[auto-dock-it](https://github.com/MelvinJoshua1375/auto-dock-it)**
+**[Auto-Dock-It](https://github.com/MelvinJoshua1375/auto-dock-it)**
 
 Agentic tool that clones any GitHub repo and generates a working Dockerfile through a self-healing build loop -- the LLM reads its own build errors, revises, and retries until the container runs.
 
@@ -61,7 +61,7 @@ Basketball outcome predictor powered by live Firebase data. Mobile-first Flutter
 </td>
 <td valign="top" width="50%">
 
-**[memeforge-ai-n8n](https://github.com/MelvinJoshua1375/memeforge-ai-n8n)**
+**[MemeForge AI n8n](https://github.com/MelvinJoshua1375/memeforge-ai-n8n)**
 
 AI meme generator built entirely on n8n agentic workflows, chaining together free APIs from prompt to image to caption.
 
@@ -82,7 +82,7 @@ Research-grade ML pipeline on liver disease. Deep EDA with stacked-chart insight
 </td>
 <td valign="top" width="50%">
 
-**[mobile-kinetic-activity-ecosystem](https://github.com/MelvinJoshua1375/mobile-kinetic-activity-ecosystem)**
+**[Mobile Kinetic Activity Ecosystem](https://github.com/MelvinJoshua1375/mobile-kinetic-activity-ecosystem)**
 
 Industry-grade rewrite of a PySpark clustering pipeline on 1.2M rows of mobile sensor data (accelerometer, gyroscope, rotation). Multiple clustering algorithms, anomaly detection, MLflow experiment tracking, FastAPI backend, React frontend -- deployed end-to-end.
 
