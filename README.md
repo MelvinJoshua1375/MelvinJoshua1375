@@ -86,11 +86,11 @@ Research-grade ML pipeline on liver disease. Deep EDA with stacked-chart insight
 </td>
 <td valign="top" width="50%">
 
-**[mobile-health-sensor-segmentation](https://github.com/MelvinJoshua1375/mobile-health-sensor-segmentation)**
+**[mobile-kinetic-activity-ecosystem](https://github.com/MelvinJoshua1375/mobile-kinetic-activity-ecosystem)**
 
-Sensor data segmentation pipeline for mobile health monitoring. Enhanced version with AI-assisted implementation.
+Industry-grade rewrite of a PySpark clustering pipeline on 1.2M rows of mobile sensor data (accelerometer, gyroscope, rotation). Multiple clustering algorithms, anomaly detection, MLflow experiment tracking, FastAPI backend, React frontend -- deployed end-to-end.
 
-`sensor segmentation` `mobile health` `time-series`
+`PySpark` `Databricks` `MLflow` `KMeans + BisectingKMeans + GMM` `Isolation Forest + LOF` `FastAPI` `React`
 
 </td>
 </tr>
