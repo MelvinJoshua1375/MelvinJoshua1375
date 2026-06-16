@@ -10,56 +10,91 @@
 
 <br/>
 
----
+<div align="center">
 
-### Mission Briefing
+```
+[BOOT]  Initializing Melvin Joshua...
+[OK]    M.Sc. Data Science loaded
+[OK]    Stats undergrad core detected
+[OK]    AI builder mode active
+[WARN]  Sleep schedule not found
+[OK]    Always learning: true
+[READY] System online.
+```
 
-> *Every dataset is a star map. Every model, a spacecraft. The destination: clarity.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e14?style=for-the-badge&logo=linkedin&logoColor=a9fef7)](https://linkedin.com/in/melvin-joshua)
 
-M.Sc. Data Science student with a Statistics undergrad background. I build things that think, predict, and occasionally surprise me. Currently navigating the intersection of AI, real-world products, and whatever interesting problem lands next.
-
-<br/>
-
----
-
-### Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0a0e14?style=for-the-badge&logo=python&logoColor=a9fef7)
-![Dart](https://img.shields.io/badge/Dart-0a0e14?style=for-the-badge&logo=dart&logoColor=7ec8e3)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0e14?style=for-the-badge&logo=javascript&logoColor=f7e98e)
-![SQL](https://img.shields.io/badge/SQL-0a0e14?style=for-the-badge&logo=postgresql&logoColor=a9fef7)
-
-**Frameworks & Platforms**
-
-![Flutter](https://img.shields.io/badge/Flutter-0a0e14?style=for-the-badge&logo=flutter&logoColor=54c5f8)
-![Next.js](https://img.shields.io/badge/Next.js-0a0e14?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/Firebase-0a0e14?style=for-the-badge&logo=firebase&logoColor=ffca28)
-![n8n](https://img.shields.io/badge/n8n-0a0e14?style=for-the-badge&logo=n8n&logoColor=e94d4d)
-
-**AI & ML**
-
-![LangChain](https://img.shields.io/badge/LangChain-0a0e14?style=for-the-badge&logo=chainlink&logoColor=a9fef7)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0e14?style=for-the-badge&logo=scikitlearn&logoColor=f89939)
-![RAG](https://img.shields.io/badge/RAG%20%2F%20LLM%20Apps-0a0e14?style=for-the-badge&logo=openai&logoColor=74aa9c)
-
-<br/>
+</div>
 
 ---
 
-### Active Missions
+### Projects
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [Inigo](https://botinigo.com) `private repo` | Official admission chatbot for Loyola College, Chennai. Hybrid RAG (BM25 + semantic search + RRF), multilingual EN/TA/HI, voice input, streaming SSE, admin dashboard with analytics, prompt injection guard, rate limiting. Two-member team, end-to-end. | Next.js · Python · RAG |
-| [auto-dock-it](https://github.com/MelvinJoshua1375/auto-dock-it) | Clone any repo, auto-generate a Dockerfile via self-healing agentic build loop | Python · LLM |
-| SportsWiz `private` | Basketball outcome predictor with real-time Firebase data | Flutter · Firebase |
-| [liver-disease-demo](https://github.com/MelvinJoshua1375/liver-disease-demo) | ML pipeline: SHAP explainability, Optuna tuning, TDD, Streamlit deploy | Python · scikit-learn |
-| [liver_disease_prediction](https://github.com/MelvinJoshua1375/liver_disease_prediction) | Earlier exploration of the same problem -- raw ML, no frills | Python · scikit-learn |
-| [mobile_health_sensor_segmentation](https://github.com/MelvinJoshua1375/mobile_health_sensor_segmentation) | Sensor data segmentation for mobile health monitoring -- manual implementation, ground-up | Python |
-| [mobile-health-sensor-segmentation](https://github.com/MelvinJoshua1375/mobile-health-sensor-segmentation) | Enhanced version of the same project -- AI-assisted coding, concepts verified | Python |
-| [memeforge-ai-n8n](https://github.com/MelvinJoshua1375/memeforge-ai-n8n) | AI meme generator built on n8n agentic workflows | n8n · Free APIs |
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**[Inigo](https://botinigo.com)** &nbsp;![private](https://img.shields.io/badge/-private-1a1a3e?style=flat-square&logoColor=a9fef7)
+
+Production RAG chatbot for Loyola College Chennai. Answers admissions queries across programmes, fees, dates, and eligibility in three languages. Built end-to-end by a two-member team.
+
+`Hybrid BM25 + semantic search` `RRF fusion` `multilingual EN/TA/HI` `voice input` `streaming SSE` `prompt injection guard` `per-IP rate limiting`
+
+
+</td>
+<td valign="top" width="50%">
+
+**[auto-dock-it](https://github.com/MelvinJoshua1375/auto-dock-it)**
+
+Agentic tool that clones any GitHub repo and generates a working Dockerfile through a self-healing build loop -- the LLM reads its own build errors, revises, and retries until the container runs.
+
+`self-healing agentic loop` `LLM error introspection` `zero manual Dockerfile writing`
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td valign="top" width="50%">
+
+**SportsWiz** &nbsp;![private](https://img.shields.io/badge/-private-1a1a3e?style=flat-square&logoColor=a9fef7)
+
+Basketball outcome predictor powered by live Firebase data. Mobile-first Flutter app with real-time inference.
+
+`real-time RTDB` `outcome classification` `mobile-first`
+
+</td>
+<td valign="top" width="50%">
+
+**[memeforge-ai-n8n](https://github.com/MelvinJoshua1375/memeforge-ai-n8n)**
+
+AI meme generator built entirely on n8n agentic workflows, chaining together free APIs from prompt to image to caption.
+
+`n8n orchestration` `free API chaining` `agentic image generation`
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td valign="top" width="50%">
+
+**[Clinical Liver Risk Analysis Through Explainable Hybrid Intelligence](https://github.com/MelvinJoshua1375/liver-explainable-hybrid-intelligence)**
+
+Research-grade ML pipeline on liver disease. Deep EDA with stacked-chart insights, WoE/IV feature analysis, a novel DT+LR hybrid (0.96 AUC, beating Random Forest), per-patient SHAP waterfall explanations, Optuna tuning, 100+ TDD tests, and Streamlit deployment with CI/CD.
+
+`Python` `WoE/IV` `DT+LR hybrid` `SHAP per-patient XAI` `Optuna` `TDD` `deployed`
+
+</td>
+<td valign="top" width="50%">
+
+**[mobile-health-sensor-segmentation](https://github.com/MelvinJoshua1375/mobile-health-sensor-segmentation)**
+
+Sensor data segmentation pipeline for mobile health monitoring. Enhanced version with AI-assisted implementation.
+
+`sensor segmentation` `mobile health` `time-series`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -69,8 +104,12 @@ M.Sc. Data Science student with a Statistics undergrad background. I build thing
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MelvinJoshua1375&show_icons=true&hide_border=true&bg_color=020916&title_color=a9fef7&icon_color=7ec8e3&text_color=c9d1d9&ring_color=7ec8e3" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinJoshua1375&layout=compact&hide_border=true&bg_color=020916&title_color=a9fef7&text_color=c9d1d9&langs_count=6" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MelvinJoshua1375/MelvinJoshua1375/output/snake-dark.svg" alt="contribution snake" />
 </div>
 
 <br/>
